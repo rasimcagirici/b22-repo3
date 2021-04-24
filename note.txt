@@ -15,3 +15,7 @@ Few things happened:
 	remote repository so we pushed local comits to remote repository using push origin button
 	4. observe it has been added in your repository 
 	under GitHub.com
+
+	We do not have to push one commit at a time
+	You can push multiple commits in one shot
+	There is no limit
